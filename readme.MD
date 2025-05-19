@@ -10,7 +10,7 @@ Karam Dosa
 * oil
 
 # egg dosa
-
 * dosa flour
-* 2 eggs
+* 1 egg
+* oil
 * karam
