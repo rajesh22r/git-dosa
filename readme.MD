@@ -14,3 +14,8 @@ Karam Dosa
 * 1 egg
 * oil
 * karam
+
+# special dosa
+* dosa batter
+* bombai chutney
+* podi
