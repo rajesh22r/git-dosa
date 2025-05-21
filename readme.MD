@@ -14,3 +14,7 @@ Karam Dosa
 * dosa flour
 * 2 eggs
 * karam
+
+# paneer masala dosa
+* dosa flour
+* paneer
